@@ -1,4 +1,4 @@
-package json.util;
+package org.liws.json.util;
 
 import com.google.gson.Gson;
 

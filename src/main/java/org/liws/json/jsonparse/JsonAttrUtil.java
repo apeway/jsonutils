@@ -1,10 +1,13 @@
-package json.jsonparse;
+package org.liws.json.jsonparse;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
+
+import org.liws.json.jsonparse.model.AttrType;
+import org.liws.json.jsonparse.model.JsonAttr;
 
 import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;

@@ -1,4 +1,4 @@
-package json.jsonparse;
+package org.liws.json.jsonparse.model;
 
 import java.util.List;
 

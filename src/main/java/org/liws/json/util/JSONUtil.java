@@ -1,4 +1,4 @@
-package json.util;
+package org.liws.json.util;
 
 import java.lang.reflect.Array;
 import java.util.List;
